@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite9",
-    "path": "sprites/Sprite9/Sprite9.yy",
+    "name": "sToken",
+    "path": "sprites/sToken/sToken.yy",
   },
   "spriteMaskId": null,
   "visible": true,

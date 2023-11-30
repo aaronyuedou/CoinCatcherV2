@@ -96,4 +96,5 @@ if (inst != noone){
 	//resetting player
 	doubleJump = false;
 	spdBoost = false;
+	boostDuration = 180;
 }

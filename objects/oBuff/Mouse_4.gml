@@ -1,4 +1,4 @@
-if (sprite_index == sSpdBoost){
+ if (sprite_index == sSpdBoost){
 	oPlayer.spdBoost = true;
 }
 else if (sprite_index == sDoubleJump){
